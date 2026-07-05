@@ -1,5 +1,3 @@
-# CS-499 Computer Science Capstone ePortfolio
-
 Welcome to my ePortfolio for the SNHU Computer Science Capstone. This portfolio
 presents one artifact — my CS-340 Grazioso Salvare full-stack dashboard
 (Python, Dash, and MongoDB) — enhanced across all three categories to
