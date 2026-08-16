@@ -36,7 +36,7 @@ Python, PyMongo, Dash, and MongoDB.
 
 ## Enhancement One: Software Design and Engineering
 
-📁 [Enhanced Code](enhanced) | 📄 [Narrative](NARRATIVE-LINK-HERE)
+📁 [Enhanced Code](artifact1/enhanced) | 📄 [Narrative](NARRATIVE-LINK-HERE)
 
 For this enhancement, I applied defensive programming practices and added
 automated testing to the CRUD module and dashboard to demonstrate reliable,
