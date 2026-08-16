@@ -46,7 +46,7 @@ well-structured, professional-quality code.
 
 ## Enhancement Two: Algorithms and Data Structures
 
-📁 [Enhanced Code](artifact2/enhanced) | 📄 [Narrative]([NARRATIVE-LINK-HERE](https://github.com/schoolgal34/CS-340/blob/main/CS%20499%20-%20MODULE%207%20ARTIFACT%202%20NARRATIVE.docx))
+📁 [Enhanced Code](artifact2/enhanced) | 📄 [Narrative](NARRATIVE-LINK-HERE](https://github.com/schoolgal34/CS-340/blob/main/CS%20499%20-%20MODULE%207%20ARTIFACT%202%20NARRATIVE.docx))
 
 For this enhancement, I performed algorithmic benchmarking and complexity
 analysis on the data retrieval and processing logic to demonstrate my ability
@@ -56,7 +56,7 @@ to evaluate and improve the efficiency of my solutions.
 
 ## Enhancement Three: Databases
 
-📁 [Enhanced Code](artifact3/enhanced) | 📄 [Narrative]([https://github.com/schoolgal34/CS-340/blob/main/CS%20499%20-%20MODULE%207%20ARTIFACT%203%20NARRATIVE.docx])
+📁 [Enhanced Code](artifact3/enhanced) | 📄 [Narrative](https://github.com/schoolgal34/CS-340/blob/main/CS%20499%20-%20MODULE%207%20ARTIFACT%203%20NARRATIVE.docx)
 
 For this enhancement, I implemented database security hardening and an
 expanded MongoDB aggregation pipeline to demonstrate secure and efficient
