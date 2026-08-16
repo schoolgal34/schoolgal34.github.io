@@ -36,7 +36,7 @@ Python, PyMongo, Dash, and MongoDB.
 
 ## Enhancement One: Software Design and Engineering
 
-📁 [Enhanced Code](ENHANCED-LINK-HERE) | 📄 [Narrative](NARRATIVE-LINK-HERE)
+📁 [Enhanced Code](enhanced) | 📄 [Narrative](NARRATIVE-LINK-HERE)
 
 For this enhancement, I applied defensive programming practices and added
 automated testing to the CRUD module and dashboard to demonstrate reliable,
@@ -46,7 +46,7 @@ well-structured, professional-quality code.
 
 ## Enhancement Two: Algorithms and Data Structures
 
-📁 [Enhanced Code](ENHANCED-LINK-HERE) | 📄 [Narrative](NARRATIVE-LINK-HERE)
+📁 [Enhanced Code](artifact1/enhanced) | 📄 [Narrative](NARRATIVE-LINK-HERE)
 
 For this enhancement, I performed algorithmic benchmarking and complexity
 analysis on the data retrieval and processing logic to demonstrate my ability
