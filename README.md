@@ -46,7 +46,7 @@ well-structured, professional-quality code.
 
 ## Enhancement Two: Algorithms and Data Structures
 
-📁 [Enhanced Code](artifact1/enhanced) | 📄 [Narrative](NARRATIVE-LINK-HERE)
+📁 [Enhanced Code](artifact2/enhanced) | 📄 [Narrative](NARRATIVE-LINK-HERE)
 
 For this enhancement, I performed algorithmic benchmarking and complexity
 analysis on the data retrieval and processing logic to demonstrate my ability
@@ -56,7 +56,7 @@ to evaluate and improve the efficiency of my solutions.
 
 ## Enhancement Three: Databases
 
-📁 [Enhanced Code](ENHANCED-LINK-HERE) | 📄 [Narrative](NARRATIVE-LINK-HERE)
+📁 [Enhanced Code](artifact3/enhanced) | 📄 [Narrative](NARRATIVE-LINK-HERE)
 
 For this enhancement, I implemented database security hardening and an
 expanded MongoDB aggregation pipeline to demonstrate secure and efficient
